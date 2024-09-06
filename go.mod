@@ -1,4 +1,4 @@
-module hashing
+module github.com/xadichamahkamova/hashing
 
 go 1.22.6
 
